@@ -126,6 +126,6 @@ If you like the project, feel free to ⭐ it on GitHub!
 Connect with me on LinkedIn for more.  
 
 ##  🖇️ Link A Project
-   <a href="https://www.linkedin.com/in/muaddh-alsway/" target="_blank">
+   <a href="https://www.linkedin.com/posts/muaddh-alsway_cprogramming-softwaredevelopment-programmingprojects-activity-7326336029269864448-86ry?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
