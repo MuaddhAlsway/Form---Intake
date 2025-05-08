@@ -104,7 +104,7 @@ Preferred Doctor: Dr. Malona - Heart Specialist
 
 This is a solo project for learning purposes, but feel free to fork, modify, and share improvements!
 
-## 📜 License
+## 📜 Idea
 
 This project is open-source and available under the MIT License.
 
