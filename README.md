@@ -1,7 +1,7 @@
-# 📝 Form — Intake System in C
+# 📘 Project Deep Dive in C: [📝 Form — Intake System in C] 
 
 This repository contains multiple C programs that simulate hospital intake forms, user interactions, and different logic structures in C. It's designed as a hands-on learning project for building terminal applications using pure C code.
-# 🏥 Hospital Intake Form – C Language Terminal App
+# 📘 Project Deep Dive in C: [🏥 Hospital Intake Form – C Language Terminal App]  
 
 Welcome to a simple yet powerful **hospital intake system** built entirely in C!  
 This command-line application simulates a real-world patient intake experience — from entering personal information to choosing your medical condition and preferred doctor.
